@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
