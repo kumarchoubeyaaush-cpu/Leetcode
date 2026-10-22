@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
