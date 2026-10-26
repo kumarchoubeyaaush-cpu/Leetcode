@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
