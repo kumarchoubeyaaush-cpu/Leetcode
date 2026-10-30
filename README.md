@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
