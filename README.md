@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,4 +208,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
