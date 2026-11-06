@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
@@ -198,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,4 +233,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
