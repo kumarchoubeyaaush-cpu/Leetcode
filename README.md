@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+| [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
