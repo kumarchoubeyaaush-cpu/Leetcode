@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0415-add-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0415-add-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
