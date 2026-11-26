@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1323-maximum-69-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1323-maximum-69-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1323-maximum-69-number) |
 ## Trie
 |  |
 | ------- |
