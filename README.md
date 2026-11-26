@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
