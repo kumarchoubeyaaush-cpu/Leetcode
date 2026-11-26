@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
