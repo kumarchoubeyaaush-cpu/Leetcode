@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Newton's Method
 |  |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
