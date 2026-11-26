@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bézout's Lemma
 |  |
 | ------- |
