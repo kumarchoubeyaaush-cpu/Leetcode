@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -289,4 +292,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
