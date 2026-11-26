@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
