@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0263-ugly-number) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
