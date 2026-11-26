@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
