@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0821-shortest-distance-to-a-character](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
