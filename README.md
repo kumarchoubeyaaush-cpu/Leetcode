@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
 | ------- |
