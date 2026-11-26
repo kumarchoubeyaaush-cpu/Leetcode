@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
