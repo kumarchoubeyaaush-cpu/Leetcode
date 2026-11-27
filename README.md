@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -448,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
