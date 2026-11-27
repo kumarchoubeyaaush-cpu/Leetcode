@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Primality Test
 |  |
 | ------- |
