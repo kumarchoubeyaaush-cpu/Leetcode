@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3870-count-commas-in-range](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
