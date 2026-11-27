@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -472,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
