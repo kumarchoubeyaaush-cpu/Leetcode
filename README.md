@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Number Theory
 |  |
 | ------- |
