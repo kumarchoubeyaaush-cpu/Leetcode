@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3842-toggle-light-bulbs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3477-fruits-into-baskets-ii](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3842-toggle-light-bulbs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3842-toggle-light-bulbs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Quicksort
 |  |
 | ------- |
