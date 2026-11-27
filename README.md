@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bézout's Lemma
 |  |
 | ------- |
