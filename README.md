@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
