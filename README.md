@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bézout's Lemma
 |  |
 | ------- |
