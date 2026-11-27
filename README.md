@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kumarchoubeyaaush-cpu/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
